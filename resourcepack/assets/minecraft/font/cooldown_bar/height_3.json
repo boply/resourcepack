@@ -1,0 +1,68 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/bar_pixels.png",
+            "ascent": 16,
+            "height": 128,
+            "chars":  [
+                "\uE000\uE001\uE002\uE003\uE004\uE005\uE006\uE007"
+            ]
+        },
+        {
+            "type": "space",
+            "advances": {
+                "\uF000": -2,
+                "\uF001": -1,
+                "\uF002": 2,
+                "\uF003": 181,
+                "\uF004": -81
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/space.png",
+            "ascent": -32768,
+            "height": -4,
+            "chars": [
+                "\uF000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/space.png",
+            "ascent": -32768,
+            "height": -3,
+            "chars": [
+                "\uF001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/space.png",
+            "ascent": -32768,
+            "height": 1,
+            "chars": [
+                "\uF002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/space.png",
+            "ascent": -32768,
+            "height": 180,
+            "chars": [
+                "\uF003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/space.png",
+            "ascent": -32768,
+            "height": -83,
+            "chars": [
+                "\uF004"
+            ]
+        }
+    ]
+}

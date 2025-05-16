@@ -1,0 +1,28 @@
+{
+  "pack": {
+    "pack_format": 18,
+    "supported_formats": {
+      "min_inclusive": 18,
+      "max_inclusive": 55
+    },
+    "description": {"text": "Origins-Reborn Resource Pack", "color": "gold"}
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": {
+          "min_inclusive": 32,
+          "max_inclusive": 55
+        },
+        "directory": "1_20_5-1_21_5"
+      },
+      {
+        "formats": {
+          "min_inclusive": 18,
+          "max_inclusive": 31
+        },
+        "directory": "1_20_2-1_20_4"
+      }
+    ]
+  }
+}

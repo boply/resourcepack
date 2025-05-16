@@ -1,0 +1,82 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/light_gray_stained_glass_pane"
+    },
+    "cases": [
+      {
+        "when": "1",
+        "model": {
+          "type": "model",
+          "model": "gui/origin_selector/arrow/left"
+        }
+      },
+      {
+        "when": "2",
+        "model": {
+          "type": "model",
+          "model": "gui/origin_selector/arrow/right"
+        }
+      },
+      {
+        "when": "3",
+        "model": {
+          "type": "model",
+          "model": "gui/origin_selector/arrow/up"
+        }
+      },
+      {
+        "when": "4",
+        "model": {
+          "type": "model",
+          "model": "gui/origin_selector/arrow/down"
+        }
+      },
+      {
+        "when": "5",
+        "model": {
+          "type": "model",
+          "model": "gui/origin_selector/confirm_button"
+        }
+      },
+      {
+        "when": "6",
+        "model": {
+          "type": "model",
+          "model": "gui/origin_selector/invisible_button"
+        }
+      },
+      {
+        "when": "7",
+        "model": {
+          "type": "model",
+          "model": "gui/origin_selector/arrow/left_disabled"
+        }
+      },
+      {
+        "when": "8",
+        "model": {
+          "type": "model",
+          "model": "gui/origin_selector/arrow/right_disabled"
+        }
+      },
+      {
+        "when": "9",
+        "model": {
+          "type": "model",
+          "model": "gui/origin_selector/arrow/up_disabled"
+        }
+      },
+      {
+        "when": "10",
+        "model": {
+          "type": "model",
+          "model": "gui/origin_selector/arrow/down_disabled"
+        }
+      }
+    ]
+  }
+}

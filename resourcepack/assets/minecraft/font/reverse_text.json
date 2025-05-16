@@ -1,0 +1,94 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "gui/space.png",
+            "ascent": -32768,
+            "height": -32,
+            "chars": [
+                "\uF000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/space.png",
+            "ascent": -32768,
+            "height": -4,
+            "chars": [
+                "\uF001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/space.png",
+            "ascent": -32768,
+            "height": -5,
+            "chars": [
+                "\uF002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/space.png",
+            "ascent": -32768,
+            "height": -6,
+            "chars": [
+                "\uF003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/space.png",
+            "ascent": -32768,
+            "height": -7,
+            "chars": [
+                "\uF004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/space.png",
+            "ascent": -32768,
+            "height": -8,
+            "chars": [
+                "\uF005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/space.png",
+            "ascent": -32768,
+            "height": -9,
+            "chars": [
+                "\uF006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/space.png",
+            "ascent": -32768,
+            "height": -10,
+            "chars": [
+                "\uF007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/space.png",
+            "ascent": -32768,
+            "height": -11,
+            "chars": [
+                "\uF008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/space.png",
+            "ascent": -32768,
+            "height": -12,
+            "chars": [
+                "\uF009"
+            ]
+        }
+    ]
+}
