@@ -308,8 +308,5 @@
 		"height": 300,
 		"chars": ["\uE835"]
 	}
-	{
-		"type":"reference",
-		"id":"nova:move"
-	}
+    ]
 }

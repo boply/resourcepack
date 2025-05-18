@@ -80,7 +80,7 @@
 	{"predicate": {"pulling": 1, "pull": 0.9}, "model": "minecraft:item/bow_pulling_2"},
 
 	{"predicate": {"custom_model_data":83650}, "model": "realisticsurvival:item/iceandfire/dragonbone_bow_standby"},
-       	{"predicate": {"pulling": 1, "custom_model_data": 83650}, "model": "minecraft:item/iceandfire/realisticsurvival/dragonbone_bow_pulling_0"},
+       	{"predicate": {"pulling": 1, "custom_model_data": 83650}, "model": "realisticsurvival:item/iceandfire/dragonbone_bow_pulling_0"},
         {"predicate": {"pulling": 1, "pull": 0.65, "custom_model_data": 83650}, "model": "realisticsurvival:item/iceandfire/dragonbone_bow_pulling_1"},
         {"predicate": {"pulling": 1, "pull": 0.9, "custom_model_data": 83650}, "model": "realisticsurvival:item/iceandfire/dragonbone_bow_pulling_2"},
 
