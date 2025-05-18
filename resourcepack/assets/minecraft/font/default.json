@@ -307,6 +307,10 @@
 		"ascent": 150,
 		"height": 300,
 		"chars": ["\uE835"]
+	},
+	{
+		"type":"reference",
+		"id":"nova:move"
 	}
     ]
 }

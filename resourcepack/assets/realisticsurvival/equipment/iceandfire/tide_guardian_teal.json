@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "realisticsurvival:iceandfire/tide_guardian_teal_armor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "realisticsurvival:iceandfire/tide_guardian_teal_armor"
+      }
+    ]
+  }
+}

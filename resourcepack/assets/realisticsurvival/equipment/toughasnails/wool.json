@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "realisticsurvival:toughasnails/wool_armor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "realisticsurvival:toughasnails/wool_armor"
+      }
+    ]
+  }
+}

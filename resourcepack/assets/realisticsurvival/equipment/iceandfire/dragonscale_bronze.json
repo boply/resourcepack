@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "realisticsurvival:iceandfire/dragonscale_bronze_armor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "realisticsurvival:iceandfire/dragonscale_bronze_armor"
+      }
+    ]
+  }
+}

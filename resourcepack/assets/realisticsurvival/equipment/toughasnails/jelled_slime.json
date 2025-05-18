@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "realisticsurvival:toughasnails/jelled_slime_armor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "realisticsurvival:toughasnails/jelled_slime_armor"
+      }
+    ]
+  }
+}
