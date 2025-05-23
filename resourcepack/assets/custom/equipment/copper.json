@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "custom:copper_armor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "custom:copper_armor"
+      }
+    ]
+  }
+}
