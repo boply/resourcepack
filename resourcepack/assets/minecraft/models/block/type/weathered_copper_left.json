@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:block/main/left_hinge",
-    "textures": {
-        "top": "minecraft:block/weathered_copper_door_top",
-        "bottom": "minecraft:block/weathered_copper_door_bottom"
-    }
-}
