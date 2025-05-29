@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "custom:lapis_armor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "custom:lapis_armor"
+      }
+    ]
+  }
+}
