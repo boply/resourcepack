@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "realisticsurvival:block/iceandfire/dragonsteel_ice_block"
-  }
-}

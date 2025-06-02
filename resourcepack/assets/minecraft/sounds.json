@@ -1,1 +1,8 @@
-{"entity.wolf.howl": {"sounds": ["mob/wolf/howl1", "mob/wolf/howl2"]},"block.chain.break":{"sounds":[],"replace":true},"block.wood.break":{"sounds":[],"replace":true},"block.wood.fall":{"sounds":[],"replace":true},"block.azalea_leaves.fall":{"sounds":[],"replace":true},"block.wood.step":{"sounds":[],"replace":true},"block.stone.break":{"sounds":[],"replace":true},"block.cherry_leaves.step":{"sounds":[],"replace":true},"block.cherry_leaves.fall":{"sounds":[],"replace":true},"block.stone.hit":{"sounds":[],"replace":true},"block.chain.hit":{"sounds":[],"replace":true},"block.cherry_leaves.break":{"sounds":[],"replace":true},"block.stone.fall":{"sounds":[],"replace":true},"block.stone.step":{"sounds":[],"replace":true},"block.grass.break":{"sounds":[],"replace":true},"block.cherry_leaves.hit":{"sounds":[],"replace":true},"block.grass.hit":{"sounds":[],"replace":true},"block.azalea_leaves.hit":{"sounds":[],"replace":true},"block.azalea_leaves.break":{"sounds":[],"replace":true},"block.wood.hit":{"sounds":[],"replace":true},"block.grass.step":{"sounds":[],"replace":true},"block.chain.fall":{"sounds":[],"replace":true},"block.grass.fall":{"sounds":[],"replace":true},"block.chain.step":{"sounds":[],"replace":true},"block.azalea_leaves.step":{"sounds":[],"replace":true}}
+{
+  "entity.wolf.howl": {
+    "sounds": [
+      "mob/wolf/howl1",
+      "mob/wolf/howl2"
+    ]
+  }
+}

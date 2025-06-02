@@ -1,6 +1,0 @@
-{
-    "parent":"realisticsurvival:item/spartanweaponry/wooden_club",
-    "textures": {
-        "layer0":"realisticsurvival:item/spartanweaponry/studded_club"
-    }
-}

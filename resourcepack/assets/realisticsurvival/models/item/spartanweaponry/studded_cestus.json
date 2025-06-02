@@ -1,6 +1,0 @@
-{
-    "parent":"realisticsurvival:item/spartanweaponry/cestus",
-    "textures": {
-        "0":"realisticsurvival:item/spartanweaponry/studded_cestus"
-    }
-}
