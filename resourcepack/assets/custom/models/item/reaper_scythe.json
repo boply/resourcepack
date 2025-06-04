@@ -1,42 +1,23 @@
 {
-    "parent": "minecraft:item/handheld",
-    "textures": {
-        "layer0": "custom:item/reaper_scythe"
-    },
+	"parent": "minecraft:item/handheld",
+	"textures": {
+	"layer0": "custom:item/reaper_scythe"
+	},
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [48.75, -88.26, 89.97],
-			"translation": [-16.25, 4.5, 2],
-			"scale": [2.01, 2.01, 2.01]
-		},
+		"scale": [2, 2, 2]
+	},
 		"thirdperson_lefthand": {
-			"rotation": [-40.16, 90, 0],
-			"translation": [16, 5, 2.5],
-			"scale": [2.01, 2.01, 2.01]
+			"scale": [2, 2, 2]
 		},
 		"firstperson_righthand": {
-			"rotation": [-59.25, -90, 0],
-			"translation": [-9, 4.75, 0],
 			"scale": [1.81, 1.81, 1.81]
 		},
 		"firstperson_lefthand": {
-			"rotation": [-59, 90, 0],
-			"translation": [16.75, 4.75, 1.75],
 			"scale": [1.81, 1.81, 1.81]
 		},
 		"ground": {
-			"translation": [0, 3.75, 0]
-		},
-		"gui": {
-			"translation": [0.75, 0, 0]
-		},
-		"head": {
-			"rotation": [0, 0, 85],
-			"translation": [-2.25, -13, 27.5],
-			"scale": [3, 3, 3]
-		},
-		"fixed": {
-			"translation": [0, 0, 9]
+			"scale": [2, 2, 2]
 		}
 	}
 }
