@@ -2,5 +2,13 @@
     "parent": "minecraft:item/handheld",
     "textures": {
         "layer0": "custom:item/reaper_scythe"
-    }
+    },
+	"display": {
+		"firstperson": {
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson": {
+			"scale": [0.8, 0.8, 0.8]
+		}
+	}
 }
