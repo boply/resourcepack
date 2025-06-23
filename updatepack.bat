@@ -5,14 +5,15 @@ setlocal
 set "PACK_DIR=resourcepack"
 set "ZIP_NAME=resourcepack.zip"
 set "SERVER_PROPERTIES=..\server.properties"
+set "ZIP_TOOL=C:\Users\braed\AppData\Local\Microsoft\WindowsApps\NanaZipC.exe"
 set "GIT=C:\Users\braed\AppData\Local\GitHubDesktop\app-3.4.20\resources\app\git\cmd\git.exe"
 set "COMMIT_MSG=Update resource pack - %DATE% %TIME%"
 
 :: Delete old zip
 if exist "%ZIP_NAME%" del "%ZIP_NAME%"
 
-:: Create new zip using 7-Zip (MUCH faster than PowerShell)
-powershell -Command "Compress-Archive -Path '.\%PACK_DIR%\*' -DestinationPath '%ZIP_NAME%' -Force"
+:: Create new zip using NanaZip CLI
+"%ZIP_TOOL%" a -tzip -mx=9 "%ZIP_NAME%" ".\%PACK_DIR%\*" >nul
 
 :: Generate SHA1
 for /f "tokens=1 delims= " %%i in ('certutil -hashfile "%ZIP_NAME%" SHA1 ^| find /v "SHA1" ^| find /v ":"') do set "SHA1_HASH=%%i"
